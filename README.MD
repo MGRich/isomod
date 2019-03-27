@@ -1,9 +1,5 @@
 # ISOMOD
 
-## Notice
-This is a branch of posesix's ISOMOD to fix it to work with Windows and allows it to work properly.
-
-## Information
 Allows injecting files into ISO images without re-building the image completely, with restrictions.
 
 You may freely use, distribute, and modify the source code.
