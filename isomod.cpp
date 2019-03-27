@@ -156,7 +156,7 @@ int main(int argc, char *args[]) {
 	}
 	else CMD(replace) {
 		if (argc <= 4) {
-			printf("isomod put [isofile] [targetfile] [hostfile]\n");
+			printf("Syntax: replace [isofile] [targetfile] [hostfile]\n");
 			return 0;
 		}
 		const char *isofilename = args[2];
